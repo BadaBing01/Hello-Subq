@@ -1,0 +1,32 @@
+2022-01-14T09:48:44.569Z Error: Unexpected argument: HelloWorld
+2022-01-14T09:48:44.569Z See more help with --help
+2022-01-14T09:48:44.569Z     at validateArgs (/usr/local/lib/node_modules/@subql/cli/node_modules/@oclif/parser/lib/validate.js:10:19)
+2022-01-14T09:48:44.569Z     at Object.validate (/usr/local/lib/node_modules/@subql/cli/node_modules/@oclif/parser/lib/validate.js:79:5)
+2022-01-14T09:48:44.569Z     at Object.parse (/usr/local/lib/node_modules/@subql/cli/node_modules/@oclif/parser/lib/index.js:28:7)
+2022-01-14T09:48:44.569Z     at Init.parse (/usr/local/lib/node_modules/@subql/cli/node_modules/@oclif/command/lib/command.js:86:41)
+2022-01-14T09:48:44.569Z     at Init.run (/usr/local/lib/node_modules/@subql/cli/lib/commands/init.js:50:38)
+2022-01-14T09:48:44.569Z     at Init._run (/usr/local/lib/node_modules/@subql/cli/node_modules/@oclif/command/lib/command.js:43:31)
+2022-01-14T09:50:16.466Z Error: Unexpected argument: HelloWorld
+2022-01-14T09:50:16.466Z See more help with --help
+2022-01-14T09:50:16.466Z     at validateArgs (/usr/local/lib/node_modules/@subql/cli/node_modules/@oclif/parser/lib/validate.js:10:19)
+2022-01-14T09:50:16.466Z     at Object.validate (/usr/local/lib/node_modules/@subql/cli/node_modules/@oclif/parser/lib/validate.js:79:5)
+2022-01-14T09:50:16.466Z     at Object.parse (/usr/local/lib/node_modules/@subql/cli/node_modules/@oclif/parser/lib/index.js:28:7)
+2022-01-14T09:50:16.466Z     at Init.parse (/usr/local/lib/node_modules/@subql/cli/node_modules/@oclif/command/lib/command.js:86:41)
+2022-01-14T09:50:16.466Z     at Init.run (/usr/local/lib/node_modules/@subql/cli/lib/commands/init.js:50:38)
+2022-01-14T09:50:16.466Z     at Init._run (/usr/local/lib/node_modules/@subql/cli/node_modules/@oclif/command/lib/command.js:43:31)
+2022-01-14T09:50:44.653Z Error: Unexpected argument: Hello-Sbq
+2022-01-14T09:50:44.653Z See more help with --help
+2022-01-14T09:50:44.653Z     at validateArgs (/usr/local/lib/node_modules/@subql/cli/node_modules/@oclif/parser/lib/validate.js:10:19)
+2022-01-14T09:50:44.653Z     at Object.validate (/usr/local/lib/node_modules/@subql/cli/node_modules/@oclif/parser/lib/validate.js:79:5)
+2022-01-14T09:50:44.653Z     at Object.parse (/usr/local/lib/node_modules/@subql/cli/node_modules/@oclif/parser/lib/index.js:28:7)
+2022-01-14T09:50:44.653Z     at Init.parse (/usr/local/lib/node_modules/@subql/cli/node_modules/@oclif/command/lib/command.js:86:41)
+2022-01-14T09:50:44.653Z     at Init.run (/usr/local/lib/node_modules/@subql/cli/lib/commands/init.js:50:38)
+2022-01-14T09:50:44.653Z     at Init._run (/usr/local/lib/node_modules/@subql/cli/node_modules/@oclif/command/lib/command.js:43:31)
+2022-01-14T09:51:17.750Z Error: Unexpected argument: Hello-Subq
+2022-01-14T09:51:17.750Z See more help with --help
+2022-01-14T09:51:17.750Z     at validateArgs (/usr/local/lib/node_modules/@subql/cli/node_modules/@oclif/parser/lib/validate.js:10:19)
+2022-01-14T09:51:17.750Z     at Object.validate (/usr/local/lib/node_modules/@subql/cli/node_modules/@oclif/parser/lib/validate.js:79:5)
+2022-01-14T09:51:17.750Z     at Object.parse (/usr/local/lib/node_modules/@subql/cli/node_modules/@oclif/parser/lib/index.js:28:7)
+2022-01-14T09:51:17.750Z     at Init.parse (/usr/local/lib/node_modules/@subql/cli/node_modules/@oclif/command/lib/command.js:86:41)
+2022-01-14T09:51:17.750Z     at Init.run (/usr/local/lib/node_modules/@subql/cli/lib/commands/init.js:50:38)
+2022-01-14T09:51:17.751Z     at Init._run (/usr/local/lib/node_modules/@subql/cli/node_modules/@oclif/command/lib/command.js:43:31)
